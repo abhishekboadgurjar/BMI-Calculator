@@ -1,4 +1,4 @@
-# BMI Calculator
+# BMI Calculator with HTML, CSS, and JavaScript
 
 ## Introduction
 
@@ -10,7 +10,7 @@ The BMI Calculator allows users to input their weight and height, calculates the
 
 ## Features
 
-- **User Input**: Allows users to input their weight (in kilograms) and height (in meters).
+- **User Input**: Allows users to input their weight (in kilograms) and height (in centimeters).
 - **BMI Calculation**: Calculates the BMI using the standard formula.
 - **Health Category**: Provides a health category based on the calculated BMI.
 
@@ -48,7 +48,7 @@ To get started with the project, follow these steps:
 You can check out the live demo of the BMI Calculator [here](https://abhishekgurjar-in.github.io/BMI-Calculator/).
 
 ## Screenshots
-![Screenshot 2024-08-08 185120](https://github.com/user-attachments/assets/dcd0a0ff-17b9-4dda-bc32-dda8dd07a624)
+![Screenshot 2024-08-08 185120](https://github.com/user-attachments/assets/064e9005-23e4-4013-b32b-78a3d0c378a1)
 
 
 ## Conclusion
