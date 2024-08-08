@@ -1,4 +1,4 @@
-# BMI Calculator with HTML, CSS, and JavaScript
+# BMI Calculator 
 
 ## Introduction
 
