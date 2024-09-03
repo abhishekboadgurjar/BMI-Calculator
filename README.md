@@ -20,6 +20,7 @@ The BMI Calculator allows users to input their weight and height, calculates the
 - **CSS**: For styling the webpage.
 - **JavaScript**: For handling user input, performing calculations, and updating the DOM.
 
+
 ## Installation
 
 To get started with the project, follow these steps:
