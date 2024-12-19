@@ -27,7 +27,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekgurjar-in/BMI-Calculator.git
+    git clone https://github.com/abhishekboadgurjar/BMI-Calculator.git
     ```
 
 2. **Open the project directory**:
@@ -46,7 +46,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the BMI Calculator [here](https://abhishekgurjar-in.github.io/BMI-Calculator/).
+You can check out the live demo of the BMI Calculator [here](https://abhishekboadgurjar.github.io/BMI-Calculator/).
 
 ## Screenshots
 ![Screenshot 2024-08-08 185120](https://github.com/user-attachments/assets/064e9005-23e4-4013-b32b-78a3d0c378a1)
@@ -63,5 +63,5 @@ The BMI Calculator project was a great way to hone my skills in handling user in
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekgurjar-in)
+  - [GitHub Profile](https://github.com/abhishekboadgurjar)
 
